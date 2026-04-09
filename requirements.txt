@@ -1,0 +1,5 @@
+pyspark
+pandas
+requests
+beautifulsoup4
+lxml
